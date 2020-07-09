@@ -1,3 +1,3 @@
 # MockData
 
-[GeoJSON Brno](./GEOJSON_BRNO.json)
+[GeoJSON Brno](https://raw.githubusercontent.com/LordNene/MockData/master/GEOJSON_BRNO.json)
